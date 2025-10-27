@@ -15,7 +15,7 @@ body{
  background-image: url(/assets/img/bg-desktop.webp);
  font-family: "Montserrat", sans-serif;
 }
-.cartao:hover .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 .cartao__conteudo__pergunta,
