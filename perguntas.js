@@ -17,6 +17,7 @@ criaCartao(
 )
 
 
+
 criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
@@ -24,7 +25,31 @@ criaCartao(
 )
 
 criaCartao(
-    'historia',
+    'história',
     'quem descobriu o Brasil?',
     'Pedro Alvares Cabral'
+)
+
+
+criaCartao(
+    'português',
+    'o que é um conto?',
+    'é um texto narrativo curto geralmente com poucos personagens'   
+)
+
+criaCartao(
+    'matemática',
+    'oque é uma equação de 1° grau?',
+    'é uma igualdade matematica que possui uma incógnita'   
+)
+
+criaCartao(
+    'Biologia',
+    'oque é DNA?',
+    'É uma molécula que contém as informações genéticas de todos os seres vivos'
+)
+criaCartao(
+    'Quimica',
+    'oque é uma reação quimica?',
+    'É um processo em que umas ou mais substâncias se tranformam em outras diferentes'   
 )
